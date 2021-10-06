@@ -13,5 +13,4 @@ You'll get shot if you don't upload your solution.
 - 한 명 이하만 남을 때까지 계속된다.
 
 ![image](https://user-images.githubusercontent.com/42052110/136189529-20c8c32d-9a64-4633-adad-a4f6d7b3b5cc.png)
-...
 ![1](https://user-images.githubusercontent.com/42052110/136197285-cf7d1c10-f835-4bea-986b-70ca2565a83c.png)
