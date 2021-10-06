@@ -9,6 +9,5 @@ You'll get shot if you don't upload your solution.
 - 만약 1주일에 3문제를 올리지 못했을 경우, 나머지 멤버들에게 꽃을 선물해야 함.
   - 꽃은 기프티콘으로, 한 명당 1만원 이상의 꽃 선물.
 - 한 명 이하만 남을 때까지 계속된다.
-- 탈퇴 불가능.
 
 ![image](https://user-images.githubusercontent.com/42052110/136189529-20c8c32d-9a64-4633-adad-a4f6d7b3b5cc.png)
