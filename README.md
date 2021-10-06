@@ -18,4 +18,4 @@ You'll get shot if you don't upload your solution.
 .
 .
 
-<src="https://user-images.githubusercontent.com/42052110/136196447-5c47871f-f674-4e5a-bbaa-46e8f55b0885.png" width="300" />
+![image2](https://user-images.githubusercontent.com/42052110/136196447-5c47871f-f674-4e5a-bbaa-46e8f55b0885.png)
