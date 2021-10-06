@@ -10,4 +10,5 @@ You'll get shot if you don't upload your solution.
   - 꽃은 기프티콘으로, 한 명당 1만원 이상의 꽃 선물.
 - 한 명 이하만 남을 때까지 계속된다.
 - 탈퇴 불가능.
+
 ![image](https://user-images.githubusercontent.com/42052110/136189529-20c8c32d-9a64-4633-adad-a4f6d7b3b5cc.png)
