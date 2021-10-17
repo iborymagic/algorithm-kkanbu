@@ -42,10 +42,13 @@ def solution(lines):
   max_count = 0
 
   for i in range(len(times)):
-    end = times[i][1]
-    duration_time = (end, end + 1000)
+    start = times[i][0]
+    start_duration_time = (start, start + 1000)
 
-    count = get_overlap_count(times, duration_time)
+    end = times[i][1]
+    end_duration_time = (end, end + 1000)
+
+    count = max(get_overlap_count(times, start_duration_time), get_overlap_count(times, end_duration_time))
 
     if count > max_count:
       max_count = count
