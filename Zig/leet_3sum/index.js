@@ -24,7 +24,7 @@ function solution(nums) {
       } else if (sum < 0) {
         left++;
       } else {
-        answer.push([nums[left], num, nums[right]]);
+        answer.push([num, nums[left], nums[right]]);
         left++;
         right--;
         while (nums[left] === nums[left - 1] && left < right) {
